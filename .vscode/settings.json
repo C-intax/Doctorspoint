@@ -1,0 +1,4 @@
+{
+    "appService.defaultWebAppToDeploy": "/subscriptions/6ed9194b-4a23-4d56-9b0a-96bd867a3e06/resourceGroups/BCSPreparationBackend/providers/Microsoft.Web/sites/bcs-preparation-backend",
+    "appService.deploySubpath": "bcs-preparation-backend"
+}
