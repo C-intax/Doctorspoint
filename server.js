@@ -5,7 +5,7 @@ var connection = mysql.createPool({
   host: 'localhost',
   user: 'root',
   password: '',
-  database: 'splendey'
+  database: 'doctorspoint'
 });
 
 connection.getConnection(function (err) {
